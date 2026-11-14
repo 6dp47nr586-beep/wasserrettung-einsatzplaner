@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "BRK Wasserwacht – Einsatzplaner",
+  "short_name": "WW Einsatzplaner",
+  "description": "Wasserrettungs-Einsatzplaner der Wasserwacht Tengling-Törring",
+  "lang": "de-DE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#edf1f5",
+  "theme_color": "#087db5",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
